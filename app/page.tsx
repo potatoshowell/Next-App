@@ -10,6 +10,11 @@ export default function Home() {
       <div className="mt-2">
         <Button className="bg-red-500 hover:bg-red-700">Kliknij</Button>
       </div>
+      <div className="mt-2">
+        <Button className="bg-blue-500 hover:bg-blue-700">
+          Kliknij drugi przycisk
+        </Button>
+      </div>
     </div>
   );
 }
